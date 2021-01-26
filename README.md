@@ -18,7 +18,7 @@ I also contribute to:
   - [BASiCS](https://bioconductor.org/packages/devel/bioc/html/BASiCS.html)
 
 
-pkg statuses:
+Bioc pkg build statuses:
 - [densvis](https://bioconductor.org/checkResults/devel/bioc-LATEST/densvis/)
 - [scater](https://bioconductor.org/checkResults/devel/bioc-LATEST/scater/)
 - [snifter](https://bioconductor.org/checkResults/devel/bioc-LATEST/snifter/)
