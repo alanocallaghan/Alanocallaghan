@@ -7,21 +7,15 @@ I maintain some R packages:
   - [bayefdr](https://cran.r-project.org/web/packages/bayefdr/index.html)
   - [contrast](https://cran.r-project.org/web/packages/contrast/index.html)
 - Bioc packages:
-  - [snifter](https://bioconductor.org/packages/devel/bioc/html/snifter.html)
-  - [densvis](https://bioconductor.org/packages/devel/bioc/html/densvis.html)
-  - [scater](https://bioconductor.org/packages/devel/bioc/html/scater.html)
+  - | [snifter](https://github.com/Alanocallaghan/snifter) | [![](http://bioconductor.org/shields/build/devel/bioc/snifter.svg)](http://bioconductor.org/checkResults/devel/bioc-LATEST/snifter) |[![](http://bioconductor.org/shields/build/release/bioc/snifter.svg)](http://bioconductor.org/checkResults/release/bioc-LATEST/snifter) |
+  - | [densvis](https://github.com/Alanocallaghan/densvis) | [![](http://bioconductor.org/shields/build/devel/bioc/densvis.svg)](http://bioconductor.org/checkResults/devel/bioc-LATEST/densvis) |[![](http://bioconductor.org/shields/build/release/bioc/densvis.svg)](http://bioconductor.org/checkResults/release/bioc-LATEST/densvis) |
+  - | [scater](https://github.com/Alanocallaghan/scater) | [![](http://bioconductor.org/shields/build/devel/bioc/scater.svg)](http://bioconductor.org/checkResults/devel/bioc-LATEST/scater) |[![](http://bioconductor.org/shields/build/release/bioc/scater.svg)](http://bioconductor.org/checkResults/release/bioc-LATEST/scater) |
 
 I also contribute to:
 - CRAN packages:
   - [heatmaply](https://cran.r-project.org/web/packages/heatmaply/index.html)
 - Bioc packages:
   - [BASiCS](https://bioconductor.org/packages/devel/bioc/html/BASiCS.html)
-
-
-Bioc pkg build statuses:
-- [densvis](https://bioconductor.org/checkResults/devel/bioc-LATEST/densvis/)
-- [scater](https://bioconductor.org/checkResults/devel/bioc-LATEST/scater/)
-- [snifter](https://bioconductor.org/checkResults/devel/bioc-LATEST/snifter/)
 
 <!--
 **Alanocallaghan/Alanocallaghan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
