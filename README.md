@@ -18,6 +18,11 @@ I also contribute to:
   - [BASiCS](https://bioconductor.org/packages/devel/bioc/html/BASiCS.html)
 
 
+pkg statuses:
+- [densvis](https://bioconductor.org/checkResults/devel/bioc-LATEST/densvis/)
+- [scater](https://bioconductor.org/checkResults/devel/bioc-LATEST/scater/)
+- [snifter](https://bioconductor.org/checkResults/devel/bioc-LATEST/snifter/)
+
 <!--
 **Alanocallaghan/Alanocallaghan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
