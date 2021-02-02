@@ -1,6 +1,6 @@
-I work statistical models for biomedical data, and their applications.
+I work on statistical models and their applications for biomedical data.
 At the moment my focus is on quantifying expression heterogeneity in 
-single cell RNAseq data.
+single cell RNAseq data using a Bayesian approach.
 
 I maintain some R packages:
 - CRAN packages:
