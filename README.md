@@ -2,6 +2,10 @@ I work on statistical models and their applications for biomedical data.
 At the moment my focus is on quantifying expression heterogeneity in 
 single cell RNAseq data using a Bayesian approach.
 
+[![Languages](https://github-readme-stats.vercel.app/api/top-langs?username=Alanocallaghan&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+
+[![GitHub stats](https://github-readme-stats.vercel.app/api?username=Alanocallaghan)](https://github.com/anuraghazra/github-readme-stats)
+
 I maintain some R packages:
 - CRAN packages:
   - [bayefdr](https://cran.r-project.org/web/packages/bayefdr/index.html) [![CRAN
