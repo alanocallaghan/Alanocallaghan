@@ -18,13 +18,16 @@ status](https://www.r-pkg.org/badges/version/contrast)](https://CRAN.R-project.o
   | [snifter](https://github.com/Alanocallaghan/snifter) | [![](http://bioconductor.org/shields/build/devel/bioc/snifter.svg)](http://bioconductor.org/checkResults/devel/bioc-LATEST/snifter) |[![](http://bioconductor.org/shields/build/release/bioc/snifter.svg)](http://bioconductor.org/checkResults/release/bioc-LATEST/snifter) |
   | [densvis](https://github.com/Alanocallaghan/densvis) | [![](http://bioconductor.org/shields/build/devel/bioc/densvis.svg)](http://bioconductor.org/checkResults/devel/bioc-LATEST/densvis) |[![](http://bioconductor.org/shields/build/release/bioc/densvis.svg)](http://bioconductor.org/checkResults/release/bioc-LATEST/densvis) |
   | [scater](https://github.com/Alanocallaghan/scater) | [![](http://bioconductor.org/shields/build/devel/bioc/scater.svg)](http://bioconductor.org/checkResults/devel/bioc-LATEST/scater) |[![](http://bioconductor.org/shields/build/release/bioc/scater.svg)](http://bioconductor.org/checkResults/release/bioc-LATEST/scater) |
+  | [BASiCS](https://bioconductor.org/packages/devel/bioc/html/BASiCS.html) | [![](http://bioconductor.org/shields/build/devel/bioc/BASiCS.svg)](http://bioconductor.org/checkResults/devel/bioc-LATEST/BASiCS) | [![](http://bioconductor.org/shields/build/release/bioc/BASiCS.svg)](http://bioconductor.org/checkResults/release/bioc-LATEST/BASiCS) |
+
 
 I also contribute to:
 - CRAN packages:
   - [heatmaply](https://cran.r-project.org/web/packages/heatmaply/index.html) [![CRAN
 status](https://www.r-pkg.org/badges/version/heatmaply)](https://CRAN.R-project.org/package=heatmaply)
 - Bioc packages:
-  - [BASiCS](https://bioconductor.org/packages/devel/bioc/html/BASiCS.html) [![](http://bioconductor.org/shields/build/devel/bioc/BASiCS.svg)](http://bioconductor.org/checkResults/devel/bioc-LATEST/BASiCS) [![](http://bioconductor.org/shields/build/release/bioc/BASiCS.svg)](http://bioconductor.org/checkResults/release/bioc-LATEST/BASiCS)
+<!--  - [BASiCS](https://bioconductor.org/packages/devel/bioc/html/BASiCS.html) [![](http://bioconductor.org/shields/build/devel/bioc/BASiCS.svg)](http://bioconductor.org/checkResults/devel/bioc-LATEST/BASiCS) [![](http://bioconductor.org/shields/build/release/bioc/BASiCS.svg)](http://bioconductor.org/checkResults/release/bioc-LATEST/BASiCS)
+-->
 
 <!--
 **Alanocallaghan/Alanocallaghan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
