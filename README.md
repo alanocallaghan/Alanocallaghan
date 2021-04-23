@@ -25,8 +25,9 @@ I also contribute to:
 - CRAN packages:
   - [heatmaply](https://cran.r-project.org/web/packages/heatmaply/index.html) [![CRAN
 status](https://www.r-pkg.org/badges/version/heatmaply)](https://CRAN.R-project.org/package=heatmaply)
+<!--
 - Bioc packages:
-<!--  - [BASiCS](https://bioconductor.org/packages/devel/bioc/html/BASiCS.html) [![](http://bioconductor.org/shields/build/devel/bioc/BASiCS.svg)](http://bioconductor.org/checkResults/devel/bioc-LATEST/BASiCS) [![](http://bioconductor.org/shields/build/release/bioc/BASiCS.svg)](http://bioconductor.org/checkResults/release/bioc-LATEST/BASiCS)
+  - [BASiCS](https://bioconductor.org/packages/devel/bioc/html/BASiCS.html) [![](http://bioconductor.org/shields/build/devel/bioc/BASiCS.svg)](http://bioconductor.org/checkResults/devel/bioc-LATEST/BASiCS) [![](http://bioconductor.org/shields/build/release/bioc/BASiCS.svg)](http://bioconductor.org/checkResults/release/bioc-LATEST/BASiCS)
 -->
 
 <!--
