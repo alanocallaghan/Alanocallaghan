@@ -25,10 +25,13 @@ I also contribute to:
 - CRAN packages:
   - [heatmaply](https://cran.r-project.org/web/packages/heatmaply/index.html) [![CRAN
 status](https://www.r-pkg.org/badges/version/heatmaply)](https://CRAN.R-project.org/package=heatmaply)
-<!--
-- Bioc packages:
-  - [BASiCS](https://bioconductor.org/packages/devel/bioc/html/BASiCS.html) [![](http://bioconductor.org/shields/build/devel/bioc/BASiCS.svg)](http://bioconductor.org/checkResults/devel/bioc-LATEST/BASiCS) [![](http://bioconductor.org/shields/build/release/bioc/BASiCS.svg)](http://bioconductor.org/checkResults/release/bioc-LATEST/BASiCS)
--->
+
+Some other stuff:
+- [plotlyutils](https://github.com/Alanocallaghan/plotlyutils): cool plotting ideas with [plotly](https://plotly.com/)
+- [shinystats](https://github.com/Alanocallaghan/shinystats): shiny apps to demonstrate statistical ideas.
+
+
+I would like if you would refer to me as "he".
 
 <!--
 **Alanocallaghan/Alanocallaghan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
