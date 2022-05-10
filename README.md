@@ -1,5 +1,7 @@
 I work on statistical models and their applications for biomedical data.
-At the moment my focus is on quantifying expression heterogeneity in 
+At the moment I am working on Bayesian modelling of eQTLs using allele
+specific expression in celltype-specific studies of immune-mediated diseases.
+Previously I worked on quantifying expression heterogeneity in 
 single cell RNAseq data using a Bayesian approach.
 
 [![Languages](https://github-readme-stats.vercel.app/api/top-langs?username=Alanocallaghan&layout=compact&hide=tex,html,groovy&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
