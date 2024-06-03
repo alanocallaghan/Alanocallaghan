@@ -1,7 +1,10 @@
-I work on statistical models and their applications for biomedical data.
-At the moment I am working on Bayesian modelling of eQTLs using allele
-specific expression in celltype-specific studies of immune-mediated diseases.
-Previously I worked on quantifying expression heterogeneity in 
+I work on statistics and machine learning in biomedical data.
+At the moment I am working on the QuPath project,
+helping to improve and expand QuPath's ability
+to perform image analysis workflows in a variety of data types.
+Previously I worked on modelling of eQTLs using allele
+specific expression in celltype-specific studies of immune-mediated diseases,
+and before that on quantifying expression heterogeneity in 
 single cell RNAseq data using a Bayesian approach.
 
 <!-- [![Languages](https://github-readme-stats.vercel.app/api/top-langs?username=alanocallaghan&layout=compact&hide=tex,html,groovy&theme=radical)](https://github.com/anuraghazra/github-readme-stats) -->
