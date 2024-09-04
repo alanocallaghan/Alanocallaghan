@@ -19,7 +19,7 @@ I maintain some R packages:
 status](https://www.r-pkg.org/badges/version/bayefdr)](https://CRAN.R-project.org/package=bayefdr)
   - [contrast](https://cran.r-project.org/web/packages/contrast/index.html) [![CRAN
 status](https://www.r-pkg.org/badges/version/contrast)](https://CRAN.R-project.org/package=contrast)
-- [iheatmapr](https://cran.r-project.org/web/packages/iheatmapr/index.html) [![CRAN
+  - [iheatmapr](https://cran.r-project.org/web/packages/iheatmapr/index.html) [![CRAN
 status](https://www.r-pkg.org/badges/version/iheatmapr)](https://CRAN.R-project.org/package=iheatmapr)
 - Bioc packages:
   | Package | Devel | Release | Issues | Pull requests |
