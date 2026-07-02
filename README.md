@@ -14,6 +14,7 @@ single cell RNAseq data using a Bayesian approach.
 -->
 
 I maintain some R packages:
+- R-universe builds: https://alanocallaghan.r-universe.dev/builds
 - CRAN packages:
   - [bayefdr](https://cran.r-project.org/web/packages/bayefdr/index.html) [![CRAN
 status](https://www.r-pkg.org/badges/version/bayefdr)](https://CRAN.R-project.org/package=bayefdr)
